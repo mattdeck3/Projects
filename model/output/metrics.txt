@@ -1,0 +1,3 @@
+Best model: LinearRegression
+Linear Regression — R²: 0.2545  MAE: 0.3275
+XGBoost           — R²: 0.0255  MAE: 0.3509

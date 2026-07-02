@@ -1,0 +1,6 @@
+BACKTEST RESULTS — Longevity Biotech Earnings Vol Predictor
+Total events: 60 | Trades taken: 10
+Win rate: 90.0%
+Avg return per trade: +0.361
+Total PnL: +3.606
+Sharpe ratio: 4.50
